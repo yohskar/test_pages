@@ -1,6 +1,6 @@
 ## Welcome to tirititaaaa Pages
 
-![una imagen](./img/optimized_martin_katler.jpg)
+![una imagen](https://github.com/yohskar/test_pages/blob/gh-pages/img/optimized_martin_katler.jpg?raw=true)
 
 You can use the [editor on GitHub](https://github.com/yohskar/test_pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,7 +27,9 @@ Syntax highlighted code block
 
 [Link](url) and ![una imagen](optimized_martin_katler.jpg)
 
-![una imagen](https://github.com/yohskar/test_pages/tree/gh-pages/img/optimized_martin_katler.jpg?raw=true)
+![una imagen](https://github.com/yohskar/test_pages/blob/gh-pages/img/optimized_martin_katler.jpg?raw=true)
+
+![una imagen](./img/optimized_martin_katler.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
