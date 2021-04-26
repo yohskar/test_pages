@@ -1,6 +1,6 @@
 ## Welcome to tirititaaaa Pages
 
-![una imagen](img/optimized_martin_katler.jpg)
+![una imagen ...](img/optimized_martin_katler.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/yohskar/test_pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
